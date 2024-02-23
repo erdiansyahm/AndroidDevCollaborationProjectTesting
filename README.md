@@ -6,4 +6,5 @@ Langkah 3: Jalankan aplikasi di emulator atau perangkat fisik.
 Proyek ini menggunakan Gradle untuk manajemen dependensi.
 Pastikan Anda memiliki JDK 11 atau yang lebih baru terinstal.
 Instruksi Penggunaan:
-Tekan tombol untuk menambah jumlah penampilan pesan "Hello World".
+Tekan tombol "Push Me" untuk menambah jumlah penampilan pesan "Hello World".
+Tekan tombol "Reset" untuk mereset jumlah penampilan pesan "Hello World".
